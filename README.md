@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=binalmeida&show_icons=true&theme=dark">
-</p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binalmeida&layout=compact&theme=dark" />
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binalmeida&layout=compact&theme=dark" />
 </a>
 <p align="center">
   <a href="https://instagram.com/binalmeida7" target="blank">
