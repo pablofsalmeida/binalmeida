@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=binalmeida&show_icons=true&theme=dark">
 </p>
-   <img align="center" src="https://github-readme-stats.binalmeida.vercel.app/api/top-langs/?username=binalmeida&layout=compact&theme=dark" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binalmeida&layout=compact&theme=dark" />
 </a>
-  <img align="center" src="https://github-readme-stats.binalmeida.vercel.app/api/pin/?username=binalmeida&repo=github-readme-stats&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binalmeida&repo=github-readme-stats&theme=dark" />
 </a>    
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.binalmeida.vercel.app/api/pin/?username=binalmeida&repo=binalmeida.github.io&theme=dark" />
