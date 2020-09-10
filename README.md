@@ -3,8 +3,7 @@
 </p>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binalmeida&layout=compact&theme=dark" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.binalmeida.vercel.app/api/pin/?username=binalmeida&repo=binalmeida.github.io&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binalmeida&repo=binalmeida.github.io&theme=dark" />
 </a>
 <p align="center">
   <a href="https://instagram.com/binalmeida7" target="blank">
