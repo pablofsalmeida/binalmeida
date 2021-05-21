@@ -7,7 +7,7 @@
   <a href="https://instagram.com/binalmeida7" target="blank">
     <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384047.svg" alt="binalmeida7" height="40" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/pablo-almeida-bb6085165/" target="blank">
+  <a href="https://www.linkedin.com/in/binalmeida7/" target="blank">
     <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384046.svg" alt="Pablo Almeida" height="40" width="40" />
   </a>
 </p>
