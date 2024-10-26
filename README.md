@@ -1,3 +1,5 @@
+<img src="ciencia-de-dados.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
 <p align="left">
 Formado em Ciência da Computação pelo Instituto Federal do Sudeste de Minas Gerais, no Campus Rio Pomba. Durante a faculdade tive contato com várias linguagens de programação, dentre essas linguagens tenho interesse nas que englobam o desenvolvimento web. Também durante a faculdade algumas disciplinas me chamou bastante a atenção que foram Engenharia de Software, Redes, Análise e Projeto de Algoritmos, Cálculos, aqui tive experiência com monitoria de Cálculo I durante alguns semestres, e Estatística. 
   
