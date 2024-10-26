@@ -18,6 +18,6 @@ I believe that technology is the key to improving the world, after all, it is th
     <img align="center" src="instagram.png" height="40" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/binalmeida7/" target="blank">
-    <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384046.svg"  height="40" width="40" />
+    <img align="center" src="linkedin.png"  height="40" width="40" />
   </a>
 </p>
