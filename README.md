@@ -18,7 +18,7 @@ I believe that technology is the key to improving the world, after all, it is th
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binalmeida&layout=compact&theme=dark" />
 </a>
 <p align="center">
-  <a href="https://instagram.com/bin.almeida" target="blank">
+  <a href="https://www.instagram.com/bin.almeida" target="blank">
     <img align="center" src="instagram.png" height="40" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/binalmeida7/" target="blank">
