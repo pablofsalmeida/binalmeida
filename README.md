@@ -1,4 +1,4 @@
-### Olá 
+### Olá 👋
 <img src="ciencia-de-dados.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 <p align="left">
 Formado em Ciência da Computação pelo Instituto Federal do Sudeste de Minas Gerais, no Campus Rio Pomba. Durante a faculdade tive contato com várias linguagens de programação, dentre essas linguagens tenho interesse nas que englobam o desenvolvimento web. Também durante a faculdade algumas disciplinas me chamou bastante a atenção que foram Engenharia de Software, Redes, Análise e Projeto de Algoritmos, Cálculos, aqui tive experiência com monitoria de Cálculo I durante alguns semestres, e Estatística. 
@@ -8,7 +8,7 @@ Busco experiência nas áreas de Dados e/ou Desenvolvimento Web, e para isso est
 Acredito que a tecnologia é a chave para melhorar o mundo, afinal, através dela que muitos estudos são aprimorados e por conta disso estou disposto a deixar a minha contribuição e desenvolver ainda mais minhas habilidades. Sou uma pessoa que gosta de estar em constante aprendizado, observadora, criativa, organizada e que gosta de passar o que sabe adiante.
 </p>
 
-### Hi
+### Hi 👋
 <img src="ciencia-de-dados2.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 <p align="left">
 I have a degree in Computer Science from the Instituto Federal do Sudeste de Minas Gerais, Rio Pomba Campus. During college, I had contact with several programming languages, and among these languages ​​I am interested in those that encompass web development. Also during college, some subjects that really caught my attention were Software Engineering, Networks, Analysis and Design of Algorithms, Calculus, where I had experience with tutoring Calculus I for a few semesters, and Statistics.
