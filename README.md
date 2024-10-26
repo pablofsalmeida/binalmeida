@@ -15,7 +15,7 @@ I believe that technology is the key to improving the world, after all, it is th
 </a>
 <p align="center">
   <a href="https://instagram.com/bin.almeida" target="blank">
-    <img align="center" src="![image](https://github.com/user-attachments/assets/9baa6531-7c51-48c5-8a5a-ee86fdaa19f1)" height="40" width="40" />
+    <img align="center" src="instagram.png" height="40" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/binalmeida7/" target="blank">
     <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384046.svg"  height="40" width="40" />
