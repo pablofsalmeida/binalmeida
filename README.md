@@ -1,4 +1,4 @@
-# Olá eu me chamo Pablo Almeida ! 👋
+# Olá, eu me chamo Pablo Almeida ! 👋
 ## Bem vindo ao meu perfil do GitHub!      
 <p align="center">
   <a href="https://www.instagram.com/bin.almeida" target="blank"><img align="center" src="instagram.png" height="40" width="40" /></a>
@@ -14,7 +14,8 @@ Tenho vivência com a linguagem R, utilizada em projetos de Educação, Iniciaç
 Acredito que a tecnologia é a chave para melhorar o mundo, afinal, através dela que muitos estudos são aprimorados e por conta disso estou disposto a deixar a minha contribuição e desenvolver ainda mais minhas habilidades. Sou uma pessoa que gosta de estar em constante aprendizado, observadora, criativa, organizada e que gosta de passar o que sabe adiante.
 </p>
 
-### Hi 👋
+# Hi, my name is Pablo 👋
+## Welcome to my GitHub profile! 
 <img src="ciencia-de-dados2.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 <p align="left">
 I am 29 years old and currently living in Santos Dumont, Minas Gerais. I hold a degree in Computer Science from the Federal Institute of the Southeast of Minas Gerais, Rio Pomba Campus. During my studies, I had contact with several programming languages, with a particular interest in those related to web development. I was also especially interested in courses such as Software Engineering, Computer Networks, Algorithm Analysis and Design, Databases, Calculus, and Statistics.
@@ -32,8 +33,8 @@ I believe that technology is a key driver for improving the world, as it enhance
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="40" height="40"></code>
 </br>
 </br>
-
-
+### Ferramentas e Tecnologias
+## Portfólio de projetos
 
 <p align="center">
   <a href="hhttps://github.com/pablofsalmeida"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsalmeida&layout=compact&langs_count=7&theme=dracula"/></a>  
