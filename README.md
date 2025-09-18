@@ -27,7 +27,7 @@ Acredito que a tecnologia é a chave para melhorar o mundo, afinal, através del
 
 ![Programação](https://img.shields.io/badge/Programação-00c86f)
 1. [R](https://github.com/pablofsalmeida/ShinyApp)
-2. [Python](https://github.com/pablofsalmeida/Analise-de-Dados/Python)
+2. [Python](https://github.com/pablofsalmeida/Analise-de-Dados/tree/main/Python)
 
 <p align="center">
   <a href="hhttps://github.com/pablofsalmeida"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsalmeida&layout=compact&langs_count=7&theme=dracula"/></a>  
