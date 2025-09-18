@@ -13,13 +13,13 @@ Tenho vivência com a linguagem R, utilizada em projetos de Educação, Iniciaç
 
 Acredito que a tecnologia é a chave para melhorar o mundo, afinal, através dela que muitos estudos são aprimorados e por conta disso estou disposto a deixar a minha contribuição e desenvolver ainda mais minhas habilidades. Sou uma pessoa que gosta de estar em constante aprendizado, observadora, criativa, organizada e que gosta de passar o que sabe adiante.
 </p>
+
 ### Ferramentas e Tecnologias <br>
 <code><img src="python.png" width="40" height="40"></code>
 <code><img src="database.png" width="40" height="40"></code>
 <code><img src="r.png" width="40" height="40"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="40" height="40"></code>
-</br>
-</br>
+
 ### Portfólio de projetos<br>
 1. [Dashboards](https://github.com/pablofsalmeida/Analise-de-Dados)
 2. [R](https://github.com/pablofsalmeida/ShinyApp)
