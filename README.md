@@ -25,5 +25,7 @@ I believe that technology is a key driver for improving the world, as it enhance
   <a href="https://www.linkedin.com/in/binalmeida7/" target="blank"><img align="center" src="linkedin.png" height="40" width="40" /></a>  
 </p>
      <br>
- <a href="hhttps://github.com/pablofsalmeida"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsalmeida&layout=compact&langs_count=7&theme=dracula"/></a>  
 
+<p align="center">
+  <a href="hhttps://github.com/pablofsalmeida"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsalmeida&layout=compact&langs_count=7&theme=dracula"/></a>  
+</p>
