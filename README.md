@@ -1,4 +1,9 @@
-### Olá 👋
+# Olá eu me chamo Pablo Almeida ! 👋
+## Bem vindo ao meu perfil do GitHub!      
+<p align="center">
+  <a href="https://www.instagram.com/bin.almeida" target="blank"><img align="center" src="instagram.png" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/binalmeida7/" target="blank"><img align="center" src="linkedin.png" height="40" width="40" /></a>  
+</p>
 <img src="ciencia-de-dados.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 <p align="left">
 Formado em Ciência da Computação pelo Instituto Federal do Sudeste de Minas Gerais, no Campus Rio Pomba. Durante a faculdade tive contato com várias linguagens de programação, dentre essas linguagens tenho interesse nas que englobam o desenvolvimento web. Também durante a faculdade algumas disciplinas me chamou bastante a atenção que foram Engenharia de Software, Redes, Análise e Projeto de Algoritmos, Banco de Dados, Cálculos e Estatística. 
@@ -20,10 +25,7 @@ I also have experience with R, applied in Education projects, Scientific Initiat
 
 I believe that technology is a key driver for improving the world, as it enhances research and innovation. For this reason, I am motivated to contribute, continue developing my skills, and share knowledge with others. I consider myself a lifelong learner, observant, creative, organized, and eager to pass on what I know.
 
-<p align="center">
-  <a href="https://www.instagram.com/bin.almeida" target="blank"><img align="center" src="instagram.png" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/binalmeida7/" target="blank"><img align="center" src="linkedin.png" height="40" width="40" /></a>  
-</p>
+
      <br>
 
 <p align="center">
