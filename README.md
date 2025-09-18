@@ -27,8 +27,8 @@ I believe that technology is a key driver for improving the world, as it enhance
 
 ### Ferramentas e Tecnologias
 <code><img src="python.png" width="40" height="40"></code>
-<code><img src="https://www.flaticon.com/free-icon/database_4248443" width="40" height="40"></code>
-<code><img src="https://www.flaticon.com/free-icon/r_2103665" width="40" height="40"></code>
+<code><img src="database.png" width="40" height="40"></code>
+<code><img src="r.png" width="40" height="40"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="40" height="40"></code>
 </br>
 </br>
