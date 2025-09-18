@@ -24,7 +24,7 @@ Acredito que a tecnologia é a chave para melhorar o mundo, afinal, através del
 ![Data Science](https://img.shields.io/badge/Data_Science-9cd33b)
 1. [Dashboards](https://github.com/pablofsalmeida/Analise-de-Dados)
 
-<br>
+
 ![Programação](https://img.shields.io/badge/Programação-00c86f)
 1. [R](https://github.com/pablofsalmeida/ShinyApp)
 
