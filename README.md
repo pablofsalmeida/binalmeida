@@ -21,14 +21,13 @@ I also have experience with R, applied in Education projects, Scientific Initiat
 I believe that technology is a key driver for improving the world, as it enhances research and innovation. For this reason, I am motivated to contribute, continue developing my skills, and share knowledge with others. I consider myself a lifelong learner, observant, creative, organized, and eager to pass on what I know.
 
 <p align="center">
-  
-<a href="hhttps://github.com/pablofsalmeida">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsalmeida&layout=compact&langs_count=7&theme=dracula"/>
-
-  <a href="https://www.instagram.com/bin.almeida" target="blank">
-    <img align="center" src="instagram.png" height="40" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/binalmeida7/" target="blank">
-    <img align="center" src="linkedin.png" height="40" width="40" />
-  </a>
+  <div>
+    <a href="hhttps://github.com/pablofsalmeida"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsalmeida&layout=compact&langs_count=7&theme=dracula"/>
+    </div>    
+  <div>
+    <a href="https://www.instagram.com/bin.almeida" target="blank"><img align="center" src="instagram.png" height="40" width="40" /></a>
+   </div>    
+  <div>  
+    <a href="https://www.linkedin.com/in/binalmeida7/" target="blank"><img align="center" src="linkedin.png" height="40" width="40" /></a>
+   </div>    
 </p>
