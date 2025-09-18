@@ -21,8 +21,10 @@ Acredito que a tecnologia é a chave para melhorar o mundo, afinal, através del
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="40" height="40"></code>
 
 ### Portfólio de projetos<br>
+![Data Science](https://img.shields.io/badge/Data_Science-9cd33b)
 1. [Dashboards](https://github.com/pablofsalmeida/Analise-de-Dados)
-2. [R](https://github.com/pablofsalmeida/ShinyApp)
+![Programação](https://img.shields.io/badge/Programação-00c86f)
+1. [R](https://github.com/pablofsalmeida/ShinyApp)
 
 <p align="center">
   <a href="hhttps://github.com/pablofsalmeida"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsalmeida&layout=compact&langs_count=7&theme=dracula"/></a>  
