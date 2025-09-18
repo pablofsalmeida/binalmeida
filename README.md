@@ -33,7 +33,7 @@ I believe that technology is a key driver for improving the world, as it enhance
 </br>
 </br>
 
-![Data Science](https://img.shields.io/badge/Data_Science-9cd33b)
+
 
 <p align="center">
   <a href="hhttps://github.com/pablofsalmeida"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsalmeida&layout=compact&langs_count=7&theme=dracula"/></a>  
