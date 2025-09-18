@@ -19,10 +19,12 @@ I am seeking to gain experience in the field of Data, and for this reason I have
 I also have experience with R, applied in Education projects, Scientific Initiation, and my Undergraduate Thesis. Furthermore, I worked as a teaching assistant for Calculus I and Statistics, which strengthened my analytical, organizational, and problem-solving skills.
 
 I believe that technology is a key driver for improving the world, as it enhances research and innovation. For this reason, I am motivated to contribute, continue developing my skills, and share knowledge with others. I consider myself a lifelong learner, observant, creative, organized, and eager to pass on what I know.
+<p align="center">
 <div>
 <a href="hhttps://github.com/pablofsalmeida">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsalmeida&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+</p>
 <p align="center">
   <a href="https://www.instagram.com/bin.almeida" target="blank">
     <img align="center" src="instagram.png" height="40" width="40" />
