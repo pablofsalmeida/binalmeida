@@ -26,7 +26,7 @@ I also have solid experience with R, applied in Education projects, Scientific I
 I believe that technology is a key driver for improving the world, as it enhances research and innovation. For this reason, I am motivated to contribute, further develop my skills, and share knowledge with others. I consider myself a lifelong learner, observant, creative, organized, and someone who enjoys sharing what I know.
 
 ### Ferramentas e Tecnologias
-<code><img src="https://www.flaticon.com/free-icon/python_5968350" width="40" height="40"></code>
+<code><img src="python.png" width="40" height="40"></code>
 <code><img src="https://www.flaticon.com/free-icon/database_4248443" width="40" height="40"></code>
 <code><img src="https://www.flaticon.com/free-icon/r_2103665" width="40" height="40"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="40" height="40"></code>
