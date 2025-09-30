@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.instagram.com/bin.almeida" target="blank"><img align="center" src="instagram.png" height="40" width="40" /></a>
   <a href="https://www.linkedin.com/in/binalmeida7/" target="blank"><img align="center" src="linkedin.png" height="40" width="40" /></a>  
-   <a href="mailto:pablofsalmeida.7@gmail.com?subject=Vi+seu+email+no+GitHub" target="blank"><img align="center" src="gmail.png" height="40" width="40" /></a>  
+   <a href="mailto:pablofsalmeida.7@gmail.com?subject=Vi seu email no GitHub" target="blank"><img align="center" src="gmail.png" height="40" width="40" /></a>  
 </p>
 <img src="ciencia-de-dados.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 <p align="left">
